@@ -5,6 +5,9 @@
 /dist-server
 /tmp
 /out-tsc
+/electron-app-win32-x64
+
+/package-lock.json
 
 # dependencies
 /node_modules
